@@ -1,0 +1,5 @@
+[requires]
+geographiclib/1.52
+
+[generators]
+cmake_find_package_multi
